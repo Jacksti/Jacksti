@@ -2,8 +2,8 @@
 ## Occupation
 I am currently studying at Mid University in Sweden and learning how to use Git!
 
-### Personal links
-(jagr2402@student.miun.se "E-Mail")
+## Personal links
+[jagr2402@student.miun.se "E-mail"]
 
 
 <!--
