@@ -1,11 +1,15 @@
 # Welcome to my profile!
+
+## Information
+My name is Jack Groefsema, living in Sweden and coming from the Netherlands. Currently studying at Mid University to be a webdeveloper.
+
 ## Occupation
-I am currently studying at Mid University in Sweden and learning how to use Git!
+Currently Working in the elderly care as a caretaker
 
 ## Personal links
-[E-mail](jagr2402@student.miun.se"E-mail")
+E-Mail: jagr2042@student.miun.se
 
-I don't have much in the way of personal links! I don't use social media, ever.
+I don't have much in the way of personal links! I don't use social media much.
 
 
 <!--
