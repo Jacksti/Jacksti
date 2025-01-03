@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome to my profile!
+## Occupation
+I am currently studying at Mid University in Sweden and learning how to use Git!
+
+### Personal links
+(jagr2402@student.miun.se "E-Mail")
+
 
 <!--
 **Jacksti/Jacksti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
