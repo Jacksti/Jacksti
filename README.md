@@ -3,7 +3,9 @@
 I am currently studying at Mid University in Sweden and learning how to use Git!
 
 ## Personal links
-My e-mail is (jagr2042@student.miun.se)
+[E-mail](jagr2402@student.miun.se"E-mail")
+
+I don't have much in the way of personal links! I don't use social media, ever.
 
 
 <!--
